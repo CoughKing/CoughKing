@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Birat Sharma</h1>
 <h3 align="center">A Guy who fails</h3>
 
-- 🌱 I’m currently learning **Solidity and Web3.0**
+- 🌱 I’m currently learning **Random Stuffs**
 
 - 💬 Ask me about **Suggestions**
 
